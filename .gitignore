@@ -1,0 +1,17 @@
+# Ignore compiled files
+*.exe
+*.out
+*.o
+
+# Ignore object and cache files
+*.obj
+*.class
+*.pyc
+*.pyo
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
